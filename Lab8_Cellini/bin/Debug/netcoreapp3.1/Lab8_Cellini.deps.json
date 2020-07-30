@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lab8_Cellini/1.0.0": {
+        "runtime": {
+          "Lab8_Cellini.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab8_Cellini/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
